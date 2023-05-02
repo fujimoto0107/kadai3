@@ -24,7 +24,7 @@ $calendar_2018 = [
   "October" => "10月",
   "November" => "11月",
   "December" => "12月"
-];
+  ];
 
 // 12月を表示する
 echo $calendar_2018["December"];
